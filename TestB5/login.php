@@ -114,7 +114,7 @@
                     <a class="nav-link link text-white display-4" href="https://mobirise.com">
                         <span class="mbri-search mbr-iconfont mbr-iconfont-btn"></span>&nbsp;Localização</a>
                 </li></ul>
-            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-white display-4" href="page3.html" target="_blank"><span class="mbri-user mbr-iconfont mbr-iconfont-btn"></span>Entrar</a> <a class="btn btn-sm btn-white display-4" href="pre_cadastro.html" target="_blank"><span class="mbri-edit mbr-iconfont mbr-iconfont-btn"></span>
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-white display-4" href="page3.html" target="_blank"><span class="mbri-user mbr-iconfont mbr-iconfont-btn"></span>Entrar</a> <a class="btn btn-sm btn-white display-4" href="pre_cadastro.php" target="_blank"><span class="mbri-edit mbr-iconfont mbr-iconfont-btn"></span>
                     Cadastre-se</a></div>
         </div>
     </nav>

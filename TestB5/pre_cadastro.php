@@ -107,27 +107,27 @@
     </div>
 
     <div class="container">
-        <div class="media-container-column col-lg-8 offset-lg-2" data-form-type="formoid">
+        <div class="media-container-column col-lg-8 offset-lg-2" >
                 <div data-form-alert="" hidden="">Thanks for filling out the form!</div>
 
-                <form class="mbr-form" action="#" method="get" data-form-title="Mobirise Form">
+                <form class="mbr-form" action="assets/dashboard/recebe_pre_cadastro.php" method="POST" >
 				
                     <div class="row row-sm-offset">
                         <div class="col-md-4 multi-horizontal" data-for="name">
                             <div class="form-group">
                                 <label class="form-control-label mbr-fonts-style display-7" for="name-form1-1w">Nome Completo*</label>
-                                <input type="text" class="form-control" name="name" data-form-field="Name" required="" id="name-form1-1w">
+                                <input type="text" class="form-control" name="nome" data-form-field="Name" required="" id="nome">
                             </div>
                         </div>
                         <div class="col-md-4 multi-horizontal" data-for="email">
                             <div class="form-group">
                                 <label class="form-control-label mbr-fonts-style display-7" for="email-form1-1w">Email*&nbsp;</label>
-                                <input type="email" class="form-control" name="email" data-form-field="Email" required="" id="email-form1-1w">
+                                <input type="email" class="form-control" name="email" data-form-field="Email" required="" id="email">
                             </div>
                         </div>
                         
                     </div>
-                    
+                    <button type="submit" >enviar </button>
 
                     <span class="input-group-btn"><button type="submit" class="btn btn-form btn-primary display-4"><span class="mbri-paper-plane mbr-iconfont mbr-iconfont-btn"></span>Enviar</button></span>
                 </form>
